@@ -5,7 +5,8 @@ st.set_page_config(page_title="Python Web Calculator", page_icon="🧮")
 
 st.title("🧮 Python Web Calculator")
 
-# --- Input field ---
+# insert image here 
+st.image("https://via.placeholder.com/900x400.png?text=Streamlit+Calculator+Demo", caption="App Screenshot")
 expression = st.text_input("Enter your expression", "")
 
 col1, col2 = st.columns(2)
