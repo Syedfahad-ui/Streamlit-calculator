@@ -2,7 +2,7 @@
 A beginner-friendly calculator web app built using Python and Streamlit.
 This project was created to practice web app development and GUI logic using Python.
 
-![App Screenshot](Screenshot.png) 
+![App Screenshot](screenshot.png) 
 You can add your own screenshot here.
 
 ---
