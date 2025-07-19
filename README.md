@@ -9,8 +9,7 @@ You can add your own screenshot here.
 
 ## 🚀 Try the App
 
-👉 [Click here to open the app](https://YOUR-STREAMLIT-LINK.streamlit.app)  
-(Replace this with your actual hosted link)
+🚀 [Try the Calculator Live](https://app-calculator-oxybxkjqer7twoo8byptpq.streamlit.app)
 
 ---
 
