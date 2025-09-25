@@ -9,7 +9,7 @@ You can add your own screenshot here.
 
 ## 🚀 Try the App
 
-🚀 [Try the Calculator Live](https://app-calculator-oxybxkjqer7twoo8byptpq.streamlit.app)
+🚀 [Try the Calculator Live](https://app-calculator-cxybzjkjer7twxo8hyptqo.streamlit.app)
 
 ---
 
